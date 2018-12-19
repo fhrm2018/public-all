@@ -13,5 +13,5 @@
 
 	<context:component-scan base-package="com.fhrm.common.file.remote.service" />
 
-	<import resource="file:./conf/spring-common-redis.xml" /> 
+	<!-- <import resource="file:./conf/spring-common-redis.xml" /> --> 
 </beans>
